@@ -8,7 +8,7 @@ This repository includes two jupyter notebooks.The notebooks elaborates python p
 
 # Learning Outcomes!
 
-  - Bqsic Data Types in Python
+  - Basic Data Types in Python
   - Data Structures
   - Loops
   - Comprehensions
